@@ -28,7 +28,7 @@ Click to see the Demo:
   * **Windows:** `C:\Users\<YourUsername>\Documents\maya\<maya_version>\scripts`
   * **Mac:** `~/Library/Preferences/Autodesk/maya/<maya_version>/scripts`
   * **Linux:** `~/maya/<maya_version>/scripts`
-* Copy the `environment_exporter` folder from the extracted ZIP and paste it directly into your Maya `scripts` folder.
+* Copy the files from the extracted ZIP and paste it directly into your Maya `scripts` folder.
   
 **3. Launch the Tool in Maya**
 * Open Autodesk Maya.
