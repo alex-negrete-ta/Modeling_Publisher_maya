@@ -1,7 +1,11 @@
 # Modeling_Publisher_maya
-
-# What is the intent and purpose of this tool?
+### Modeling publisher that uses the principles of CVEI with discord push notifications for enforcing publishing standards in production.
 A publisher tool to verify the model's integrity, file naming conventions, and model qualities (e.g., ngons or lamina-faced elements) before exporting to look development.
+
+# Demo Videos:
+Click to see the Demo:
+
+[![Watch the project demo](docs/ui.png)](https://vimeo.com/1198895814?share=copy&fl=sv&fe=ci)
 
 # The Problem
 I am not a good modeler and often make mistakes in my models that eventually come back to haunt me during my texturing or rigging phase. 
